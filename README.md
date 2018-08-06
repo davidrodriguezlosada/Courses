@@ -6,7 +6,7 @@
 ### In progress
 
 
-* [Machine Learning: Regression (Coursera)(./coursera/ml-regression)
+* [Machine Learning: Regression (Coursera)](./coursera/ml-regression)
 
 ### Completed
 
