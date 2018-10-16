@@ -5,8 +5,8 @@
 
 ### In progress
 
+* [Machine Learning: Classification (Coursera)](./coursera/ml-classification)
 
-* [Machine Learning: Regression (Coursera)](./coursera/ml-regression)
 
 ### Completed
 
@@ -15,3 +15,4 @@
 
 
 * [Machine Learning Foundations (Coursera)](./coursera/ml-foundations)
+* [Machine Learning: Regression (Coursera)](./coursera/ml-regression)
